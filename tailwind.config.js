@@ -9,8 +9,10 @@ module.exports = {
     extend: {  
       fontFamily: {
         Ubuntu: ['"Ubuntu"']
-        
-      }
+              },
+      backgroundImage: {
+        'hero': "url('..public/storage/hero.jpeg')"
+      },
       
       }
     
